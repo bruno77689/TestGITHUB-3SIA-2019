@@ -1,0 +1,4 @@
+bola1[280:340, 330:390] -> regiao da bola original
+bola1[273:333, 100:160] -> regiao para copia da bola
+
+https://docs.opencv.org/3.1.0/dc/da5/tutorial_py_drawing_functions.html
